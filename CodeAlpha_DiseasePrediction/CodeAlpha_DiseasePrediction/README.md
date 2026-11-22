@@ -41,7 +41,7 @@ Predict whether a tumour is **malignant or benign** from patient diagnostic meas
 
 ## Run it yourself
 ```bash
-git clone https://github.com/<your-username>/CodeAlpha_DiseasePrediction.git
+git clone https://github.com/<ayush0807rai>/CodeAlpha_DiseasePrediction.git
 cd CodeAlpha_DiseasePrediction
 pip install -r requirements.txt
 python disease_prediction.py
@@ -53,4 +53,4 @@ Plots, the metrics table and the trained model (`best_model.joblib`) are saved t
 - This is an educational project, not a clinical tool.
 
 ## Author
-Your Name | [LinkedIn](https://linkedin.com/in/your-profile)
+Ayush Rai | [LinkedIn](https://www.linkedin.com/in/ayush-rai-89b294368/)
